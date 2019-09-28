@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="xyz.deonico.banguncalc"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:6:5-40
+12-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:6:18-37
+13
+14    <application
+14-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:8:5-26:19
+15        android:allowBackup="true"
+15-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.0.1] C:\Users\Deo.Fibrianico\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:14:9-40
+24        <activity android:name="xyz.deonico.banguncalc.kubus" />
+24-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:15:9-52
+24-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:15:19-40
+25        <activity android:name="xyz.deonico.banguncalc.lingkaran" />
+25-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:16:9-47
+25-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:16:19-44
+26        <activity android:name="xyz.deonico.banguncalc.segitiga" />
+26-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:17:9-46
+26-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:17:19-43
+27        <activity android:name="xyz.deonico.banguncalc.persegi" />
+27-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:18:9-45
+27-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:18:19-42
+28        <activity android:name="xyz.deonico.banguncalc.MainActivity" >
+28-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:19:9-25:20
+28-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:19:19-47
+29            <intent-filter>
+29-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:21:17-69
+30-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:23:17-77
+32-->D:\myproject\androidJava\Pemrograman Perangkat Bergerak\Pertemuan3\banguncalc\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>
