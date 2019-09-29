@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">Semarang Culinary</string>
+    <string name="choose_a_dessert">Choose a culinar.</string>
+    <string name="nasigorengbabat">Tampilan nasi goreng babat terlihat lebih gelap dan mengilap dari nasi goreng pada umumnya karena menggunakan minyak dan kecap manis yang lebih banyak.</string>
+    <string name="nasigandul">Cita rasa kuah nasi gandul muncul dari racikan berbagai rempah. Beberapa bumbu yang digunakan antara lain bawang putih, bawang merah, jintan, dan ketumbar.</string>
+    <string name="wedangtahu">Minuman ini berkhasiat sebagai penghangat tubuh dan sangat cocok bila dinikmati pada musim hujan, pada pagi ataupun sore hari.</string>
+    <string name="nasigorengbabat_order_message">You ordered a Nasi Goreng Babat.</string>
+    <string name="nasigandul_order_message">You ordered an Nasi Gandul.</string>
+    <string name="wedangtahu_order_message">You ordered a Wedang Tahu.</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+    <string name="google_mtv_coord_zoom12">geo:-7.0306252,110.339902?z=12</string>
+</resources>
