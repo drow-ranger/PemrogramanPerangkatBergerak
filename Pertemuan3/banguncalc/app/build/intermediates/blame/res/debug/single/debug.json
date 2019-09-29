@@ -72,12 +72,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -88,12 +88,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -228,12 +228,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kubus.jpg.flat",
@@ -432,12 +432,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
@@ -448,12 +448,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -472,12 +472,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_segitiga.xml.flat",
-        "source": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\src\\main\\res\\layout\\activity_segitiga.xml"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_segitiga.xml.flat",
+        "source": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\src\\main\\res\\layout\\activity_segitiga.xml"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
@@ -528,12 +528,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\72b2b92ec4ab73ff21fb9bc348de3b22\\core-1.0.1\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -752,12 +752,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\72b2b92ec4ab73ff21fb9bc348de3b22\\core-1.0.1\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\72b2b92ec4ab73ff21fb9bc348de3b22\\core-1.0.1\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -784,12 +784,12 @@
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Deo.Fibrianico\\.gradle\\caches\\transforms-2\\files-2.1\\f6a183f8595ca34f3d5cc99d1f8bc322\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "D:\\myproject\\androidJava\\Pemrograman Perangkat Bergerak\\Pertemuan3\\banguncalc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
