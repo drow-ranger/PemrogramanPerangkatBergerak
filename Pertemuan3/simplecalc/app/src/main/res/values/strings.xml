@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simplecalc</string>
+    <string name="tambah">Add</string>
+    <string name="kurang">Sub</string>
+    <string name="bagi">Div</string>
+    <string name="kali">Mul</string>
+</resources>
