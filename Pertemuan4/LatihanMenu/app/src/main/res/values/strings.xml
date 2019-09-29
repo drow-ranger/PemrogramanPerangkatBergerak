@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Latihan Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Deo Fibrianico</string>
+    <string name="nav_header_subtitle">deonico.xyz</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_form">Form</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="form_nama">Nama Lengkap</string>
+    <string name="hint_nama">Input Nama Lengkap</string>
+    <string name="form_alamat">Alamat</string>
+    <string name="hint_alamat">Input Alamat</string>
+    <string name="form_kota">Kota</string>
+    <string name="form_ttl">TTL</string>
+    <string name="form_email">Email</string>
+    <string name="form_jenkel">Jenis Kelamin</string>
+    <string name="lk">Laki-Laki</string>
+    <string name="pr">Perempuan</string>
+    <string name="form_hobi">Hobi</string>
+    <string name="membaca">Membaca</string>
+    <string name="menari">Menari</string>
+    <string name="menyanyi">Menyanyi</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="array_kota">
+        <item>Semarang</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Yogjakarta</item>
+        <item>Jepara</item>
+        <item>Kudus</item>
+        <item>Pekalongan</item>
+        <item>Ungaran</item>
+        <item>Medan</item>
+        <item>Bekasi</item>
+    </string-array>
+</resources>
