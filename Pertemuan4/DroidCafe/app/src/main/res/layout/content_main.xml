@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:id="@+id/textintro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_regular"
+        android:text="@string/intro_text"
+        android:textSize="@dimen/text_heading" />
+
+    <TextView
+        android:id="@+id/choose_dessert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textintro"
+        android:padding="@dimen/padding_regular"
+        android:text="@string/choose_a_dessert" />
+
+    <ImageView
+        android:id="@+id/nasigorengbabat"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/choose_dessert"
+        android:contentDescription="@string/nasigorengbabat"
+        android:onClick="showNasiGorengBabatOrder"
+        android:padding="@dimen/padding_regular"
+        android:src="@drawable/nasigorengbabat" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/choose_dessert"
+        android:layout_toRightOf="@id/nasigorengbabat"
+        android:padding="@dimen/padding_wide"
+        android:text="@string/nasigorengbabat"
+        android:textSize="10sp" />
+
+    <ImageView
+        android:id="@+id/nasigandul"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/nasigorengbabat"
+        android:contentDescription="@string/nasigandul"
+        android:onClick="showNasiGandulOrder"
+        android:padding="@dimen/padding_regular"
+        android:src="@drawable/nasigandul" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nasigorengbabat"
+        android:layout_toRightOf="@id/nasigandul"
+        android:padding="@dimen/padding_wide"
+        android:text="@string/nasigandul"
+        android:textSize="10sp" />
+
+    <ImageView
+        android:id="@+id/wedangtahu"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/nasigandul"
+        android:contentDescription="@string/wedangtahu"
+        android:onClick="showWedangTahuOrder"
+        android:padding="@dimen/padding_regular"
+        android:src="@drawable/wedangtahu" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nasigandul"
+        android:layout_toRightOf="@id/wedangtahu"
+        android:padding="@dimen/padding_wide"
+        android:text="@string/wedangtahu"
+        android:textSize="10sp" />
+
+</RelativeLayout>
