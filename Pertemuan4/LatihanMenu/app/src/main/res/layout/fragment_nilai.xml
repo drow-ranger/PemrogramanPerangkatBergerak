@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
-    <!-- TODO: Update blank fragment layout -->
 
     <ScrollView
         android:layout_width="match_parent"
@@ -17,7 +14,7 @@
             android:orientation="vertical" >
 
             <TextView
-                android:id="@+id/text_form"
+                android:id="@+id/text_nilai"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
@@ -53,7 +50,7 @@
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="25dp"
                 android:layout_marginEnd="25dp"
-                android:text="@string/form_alamat"
+                android:text="@string/form_nim"
                 android:textStyle="bold" />
 
             <EditText
@@ -62,9 +59,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:layout_marginEnd="25dp"
+                android:autofillHints="@string/hint_nim"
                 android:ems="10"
-                android:inputType="textLongMessage"
-                android:autofillHints="@string/hint_alamat" />
+                android:inputType="textLongMessage" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -73,16 +70,18 @@
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="25dp"
                 android:layout_marginEnd="25dp"
-                android:text="@string/form_kota"
+                android:text="@string/form_nilai_tugas"
                 android:textStyle="bold" />
 
-            <Spinner
-                android:id="@+id/spinner"
+            <EditText
+                android:id="@+id/editText3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:layout_marginEnd="25dp"
-                android:entries="@array/array_kota" />
+                android:autofillHints="@string/hint_nilai_tugas"
+                android:ems="10"
+                android:inputType="numberDecimal" />
 
             <TextView
                 android:id="@+id/textView5"
@@ -91,16 +90,18 @@
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="25dp"
                 android:layout_marginEnd="25dp"
-                android:text="@string/form_ttl"
+                android:text="@string/form_nilai_uts"
                 android:textStyle="bold" />
 
-            <DatePicker
-                android:id="@+id/simpleDatePicker"
-                android:layout_width="wrap_content"
+            <EditText
+                android:id="@+id/editText4"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:layout_marginEnd="25dp"
-                android:datePickerMode="spinner"/>
+                android:autofillHints="@string/hint_nilai_uts"
+                android:ems="10"
+                android:inputType="numberDecimal" />
 
             <TextView
                 android:id="@+id/textView6"
@@ -109,66 +110,18 @@
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="25dp"
                 android:layout_marginEnd="25dp"
-                android:text="@string/form_jenkel"
+                android:text="@string/form_nilai_uas"
                 android:textStyle="bold" />
 
-            <RadioGroup
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginStart="25dp"
-                android:layout_marginEnd="25dp">
-
-                <RadioButton
-                    android:id="@+id/radioButton"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="25dp"
-                    android:layout_marginEnd="25dp"
-                    android:text="@string/lk" />
-
-                <RadioButton
-                    android:id="@+id/radioButton2"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="25dp"
-                    android:layout_marginEnd="25dp"
-                    android:text="@string/pr" />
-
-            </RadioGroup>
-
-            <TextView
-                android:id="@+id/textView7"
+            <EditText
+                android:id="@+id/editText5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
-                android:layout_marginTop="25dp"
                 android:layout_marginEnd="25dp"
-                android:text="@string/form_hobi"
-                android:textStyle="bold" />
-
-            <CheckBox
-                android:id="@+id/checkBox"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="@string/membaca" />
-
-            <CheckBox
-                android:id="@+id/checkBox2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="@string/menari" />
-
-            <CheckBox
-                android:id="@+id/checkBox3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginEnd="50dp"
-                android:text="@string/menyanyi" />
+                android:autofillHints="@string/hint_nilai_uas"
+                android:ems="10"
+                android:inputType="numberDecimal" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -185,18 +138,9 @@
                     android:layout_marginEnd="20dp"
                     android:text="@string/ok" />
 
-                <Button
-                    android:id="@+id/button2"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="20dp"
-                    android:layout_marginTop="50dp"
-                    android:layout_marginEnd="20dp"
-                    android:layout_weight="1"
-                    android:text="@string/cancel" />
             </LinearLayout>
 
         </LinearLayout>
-    </ScrollView>
 
+    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

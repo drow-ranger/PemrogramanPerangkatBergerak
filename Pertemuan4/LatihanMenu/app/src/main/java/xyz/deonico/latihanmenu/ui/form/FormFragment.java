@@ -28,13 +28,13 @@ public class FormFragment extends Fragment {
         formViewModel =
                 ViewModelProviders.of(this).get(FormViewModel.class);
         View root = inflater.inflate(R.layout.fragment_form, container, false);
-//        final TextView textView = root.findViewById(R.id.text_form);
-//        formViewModel.getText().observe(this, new Observer<String>() {
-//            @Override
-//            public void onChanged(@Nullable String s) {
-//                textView.setText(s);
-//            }
-//        });
+        final TextView textView = root.findViewById(R.id.text_form);
+        formViewModel.getText().observe(this, new Observer<String>() {
+            @Override
+            public void onChanged(@Nullable String s) {
+                textView.setText(s);
+            }
+        });
 
         final Button button = root.findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {

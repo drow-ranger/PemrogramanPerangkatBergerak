@@ -25,6 +25,11 @@
             android:id="@+id/nav_form"
             android:icon="@drawable/ic_content_paste_black"
             android:title="@string/menu_form" />
+
+        <item
+            android:id="@+id/nav_nilai"
+            android:icon="@drawable/ic_school_black"
+            android:title="@string/menu_nilai" />
     </group>
 
     <item android:title="Communicate">

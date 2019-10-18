@@ -12,6 +12,7 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_tools">Tools</string>
     <string name="menu_form">Form</string>
+    <string name="menu_nilai">School</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
 
@@ -46,4 +47,18 @@
         <item>Medan</item>
         <item>Bekasi</item>
     </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="form_nim">NIM</string>
+    <string name="hint_nim">Input NIM</string>
+    <string name="form_nilai_tugas">Nilai Tugas</string>
+    <string name="hint_nilai_tugas">Input Nilai Tugas</string>
+    <string name="form_nilai_uts">Nilai UTS</string>
+    <string name="hint_nilai_uts">Input Nilai UTS</string>
+    <string name="form_nilai_uas">Nilai UAS</string>
+    <string name="hint_nilai_uas">Input Nilai UAS</string>
+    <string name="form_nilai_akhir">Nilai Akhir</string>
+    <string name="form_nilai_huruf">Nilai Huruf</string>
+    <string name="form_predikat">Predikat</string>
 </resources>

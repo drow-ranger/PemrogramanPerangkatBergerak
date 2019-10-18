@@ -1,17 +1,18 @@
-package xyz.deonico.latihanmenu.ui.form;
+package xyz.deonico.latihanmenu.ui.nilai;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class FormViewModel extends ViewModel {
+public class NilaiViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public FormViewModel() {
+    public NilaiViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Form Fragment");
+        mText.setValue("This is nilai fragment");
     }
 
     public LiveData<String> getText() { return mText; }
+
 }
