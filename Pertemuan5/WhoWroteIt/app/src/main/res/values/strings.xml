@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instructions">Enter a full or partial book name or text from the book. Click Search Books to find out who wrote the book. </string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Book Title</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="no_results">No Results Found</string>
+</resources>
